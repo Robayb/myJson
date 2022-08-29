@@ -1,4 +1,6 @@
-[{
+{
+"Local": [
+  {
     "name": "Alberta",
     "abbreviation": "AB"
   },
@@ -51,3 +53,4 @@
     "abbreviation": "YT"
   }
 ]
+}
