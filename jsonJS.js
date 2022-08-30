@@ -2,7 +2,7 @@
 
  <script type="text/javascript">
    
-  {
+ var data =[ {
     "name": "Alberta",
     "abbreviation": "AB"
   },
@@ -54,4 +54,5 @@
     "name": "Yukon",
     "abbreviation": "YT"
   }
+            ]
 </script>
