@@ -1,4 +1,4 @@
-{
+var results = {
    "Labs": [
       {
          "Class Type": "Any",
