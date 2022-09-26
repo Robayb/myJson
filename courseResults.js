@@ -59,7 +59,7 @@ var results = {
          "Extended Price": 0
       }
    ],
-   "T&E": [
+   "TE": [
       {
          "Class Type": "Virtual",
          "MarketSize": "Any",
