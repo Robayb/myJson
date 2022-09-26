@@ -61,56 +61,56 @@ var results = {
    ],
    "TE": [
       {
-         "Class Type": "Virtual",
+         "ClassType": "Virtual",
          "MarketSize": "Any",
          "Days": 1,
-         "Additional Days": 0,
+         "AdditionalDays": 0,
          "Quantity": 1,
-         "Max Students Per Lab": 12,
-         "Allocated Students": 12,
+         "MaxStudentsPerLab": 12,
+         "AllocatedStudents": 12,
          "OverSeatMax": false,
          "Price": 0,
-         "Unit of Measure": "Per Day",
-         "Extended Price": 0
+         "UnitofMeasure": "Per Day",
+         "ExtendedPrice": 0
       },
       {
-         "Class Type": "Onsite",
+         "ClassType": "Onsite",
          "MarketSize": "Small",
          "Days": 1,
-         "Additional Days": 0,
+         "AdditionalDays": 0,
          "Quantity": 1,
-         "Max Students Per Lab": 12,
-         "Allocated Students": 12,
+         "MaxStudentsPe Lab": 12,
+         "AllocatedStudents": 12,
          "OverSeatMax": false,
          "Price": 500,
-         "Unit of Measure": "Per Day",
-         "Extended Price": 2000
+         "UnitofMeasure": "Per Day",
+         "ExtendedPrice": 2000
       },
       {
-         "Class Type": "Onsite",
+         "ClassType": "Onsite",
          "MarketSize": "Medium",
          "Days": 1,
-         "Additional Days": 0,
+         "AdditionalDays": 0,
          "Quantity": 1,
-         "Max Students Per Lab": 12,
-         "Allocated Students": 12,
+         "MaxStudentsPerLab": 12,
+         "AllocatedStudents": 12,
          "OverSeatMax": false,
          "Price": 500,
-         "Unit of Measure": "Per Day",
-         "Extended Price": 2000
+         "UnitofMeasure": "Per Day",
+         "ExtendedPrice": 2000
       },
       {
-         "Class Type": "Onsite",
+         "ClassType": "Onsite",
          "MarketSize": "Large",
          "Days": 1,
-         "Additional Days": 0,
+         "AdditionalDays": 0,
          "Quantity": 1,
-         "Max Students Per Lab": 12,
-         "Allocated Students": 12,
+         "MaxStudentsPerLab": 12,
+         "AllocatedStudents": 12,
          "OverSeatMax": false,
          "Price": 500,
-         "Unit of Measure": "Per Day",
-         "Extended Price": 2000
+         "UnitofMeasure": "Per Day",
+         "ExtendedPrice": 2000
       }
    ]
 }
