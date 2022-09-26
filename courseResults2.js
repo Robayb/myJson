@@ -1,4 +1,4 @@
- {
+var data = {
    "Labs": {
          "ClassType": "Any",
          "MarketSize": "Any",
